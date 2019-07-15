@@ -1,2 +1,3 @@
 # Hello-world-repo
-This redo is to test git commands
+This repo is to test git commands
+Trying out how branches works 
